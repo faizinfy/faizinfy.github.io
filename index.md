@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-Faiz is testing GIT
-
-Good its working. Have to config git first LOL
+Commit GIT
 
 You can use the [editor on GitHub](https://github.com/faizinfy/faiz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
